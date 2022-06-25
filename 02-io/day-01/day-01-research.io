@@ -6,3 +6,6 @@
 (nil and true) println
 
 Object slotNames println
+
+// ::=	Creates slot, creates setter, assigns value
+// :=	Creates slot, assigns value
